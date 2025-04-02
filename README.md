@@ -9,15 +9,13 @@
 
 ---
 
-<h2> Bio </h2>
-## 🚀 FAST NUCES CS'26 | Director/Chairman of the board of Directors at Entracloud Software Company | C/C++/Java/HTML/Python Programmer | AI Learner | Web Developer | Supervisor | Graphic Designer | Chief Technology Officer(CTO)
+## 🔹 Bio
+FAST NUCES CS'26 | C/C++/Java/HTML/Python Programmer | AI Learner | Web Developer | Supervisor | Graphic Designer | CTO and Chairman of the board of Directors at entracloud
 
-
-**FAST NUCES CS'26** | **Director/Chairman of the Board at Entracloud Software Company** | **Software Engineer (C/C++/Java/Python)** | **Tech Mentor & Supervisor** | **Graphic Designer** | **CTO**
 
 ---
 
-## 🔹 About Me
+## About Me
 I am **Muhammad Bilal Ashiq**, a passionate and dedicated Computer Science student at **FAST NUCES (Faisalabad Campus)**. With a strong foundation in software development, system architecture, and multimedia production, I thrive on creating innovative solutions and leading cutting-edge projects in the tech industry.
 
 ---
