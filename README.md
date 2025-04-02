@@ -8,11 +8,9 @@
   <img src="https://github.com/thecallmebilalashiq/thecallmebilalashiq/blob/main/assets/header.gif" alt="Animated Header" />
 </p>
 
----
 ### 🔗 **Portfolio:** [thecallmebilalashiq.github.io/portfolio](https://thecallmebilalashiq.github.io/portfolio/)
 ---
 
-## 🔹 Bio
 FAST NUCES CS'26 | C/C++/Java/HTML/Python Programmer | AI Learner | Web Developer | Supervisor | Graphic Designer | CTO and Chairman of the board of Directors at entracloud
 
 ## 💻 **Technical Expertise**
