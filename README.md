@@ -9,6 +9,10 @@
 
 ---
 
+### 🔗 **Portfolio:** [thecallmebilalashiq.github.io/portfolio](https://thecallmebilalashiq.github.io/portfolio/)
+
+---
+
 ## 🔹 Bio
 FAST NUCES CS'26 | C/C++/Java/HTML/Python Programmer | AI Learner | Web Developer | Supervisor | Graphic Designer | CTO and Chairman of the board of Directors at entracloud
 
@@ -72,6 +76,3 @@ I am **Muhammad Bilal Ashiq**, a passionate and dedicated Computer Science stude
 
 ## 🌟 **Why Work With Me?**
 I am always eager to explore **new technologies, optimize systems, and build impactful software solutions**. Whether it's **developing high-performance applications, leading a tech team, or enhancing digital creativity**, I am committed to delivering excellence and innovation in every endeavor.
-
-### 🔗 **Portfolio:** [thecallmebilalashiq.github.io/portfolio](https://thecallmebilalashiq.github.io/portfolio/)
-
