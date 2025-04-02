@@ -8,7 +8,6 @@
 
 <hr>
 
-![Fast NUCES CS'26](https://img.shields.io/badge/-Fast%20NUCES%20CS'26-002147?style=for-the-badge&logo=academia&logoColor=white)
 ![Database](https://img.shields.io/badge/-Database-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Data Structure](https://img.shields.io/badge/-Data%20Structure-FFC107?style=for-the-badge&logo=code&logoColor=black)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -16,6 +15,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Oracle](https://img.shields.io/badge/-Oracle-F00000?style=for-the-badge&logo=oracle&logoColor=white)
@@ -24,6 +24,7 @@
 ![Arch Linux](https://img.shields.io/badge/-Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 ![VMware](https://img.shields.io/badge/-VMware-607080?style=for-the-badge&logo=vmware&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Artificial Intelligence](https://img.shields.io/badge/-Artificial%20Intelligence-065535?style=for-the-badge&logo=openai&logoColor=white)
 ![Web Development](https://img.shields.io/badge/-Web%20Development-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white)
