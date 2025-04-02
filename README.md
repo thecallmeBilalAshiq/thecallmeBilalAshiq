@@ -1,4 +1,5 @@
 <h1 align="center">🚀 Muhammad Bilal Ashiq🚀</h1>
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=30&center=true&vCenter=true&width=650&lines=Hello!+I'm+Bilal+Aashiq;🚀+Full-Stack+Developer+%7C+ML+Engineer;🎯+Tech+Enthusiast+%7C+Open-Source+Contributor;📚+Passionate+About+Coding+%7C+Teaching;💡+Always+Learning+New+Technologies" />
 </p>
@@ -8,43 +9,18 @@
 </p>
 
 ---
-
 ### 🔗 **Portfolio:** [thecallmebilalashiq.github.io/portfolio](https://thecallmebilalashiq.github.io/portfolio/)
-
 ---
 
 ## 🔹 Bio
 FAST NUCES CS'26 | C/C++/Java/HTML/Python Programmer | AI Learner | Web Developer | Supervisor | Graphic Designer | CTO and Chairman of the board of Directors at entracloud
 
-
----
-
-## About Me
-I am **Muhammad Bilal Ashiq**, a passionate and dedicated Computer Science student at **FAST NUCES (Faisalabad Campus)**. With a strong foundation in software development, system architecture, and multimedia production, I thrive on creating innovative solutions and leading cutting-edge projects in the tech industry.
-
----
-
 ## 💻 **Technical Expertise**
 - **Programming Languages:** C, C++, Java, Python, HTML, CSS, Assembly Language
-- **Software Development:** Full-Stack Web Development, Software Architecture, Spring Boot Development
+- **Software Development:** AI developer, Full-Stack Web Development, Software Architecture, Spring Boot Development 
 - **Operating Systems:** Linux (Arch, Ubuntu), Windows
-- **Software Proficiency:** Microsoft Office Suite (Word, Excel, PowerPoint), Graphic Design & Video Editing Tools
-- **Networking & Security:** P2P Communication, System Security, Cloud Computing
 
----
-
-## 📈 **Professional Experience**
-### 🏢 **Entracloud Software Company**
-**Director/Chairman of the Board | Chief Technology Officer (CTO)**
-- Overseeing the technological roadmap and driving innovation in cloud-based solutions.
-- Managing teams of developers, designers, and engineers to deliver top-tier software solutions.
-
-### 🖥 **Software Engineering & Development**
-- Expertise in **Spring Boot** to develop **scalable & high-performance enterprise applications**.
-- Experience in **front-end & back-end web development**, crafting user-friendly and responsive websites.
-- Developing **efficient algorithms & system a
-### 🎓 **Academic Engagement**
-- **Supervisor | Teaching Assistant | Mentor**
+🎓 **Supervisor | Teaching Assistant | Mentor**
 
 ## 📚 **Academic Background**
 - **FAST NUCES (Faisalabad) | BS Computer Science (2026)**
