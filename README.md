@@ -42,37 +42,13 @@ I am **Muhammad Bilal Ashiq**, a passionate and dedicated Computer Science stude
 ### 🖥 **Software Engineering & Development**
 - Expertise in **Spring Boot** to develop **scalable & high-performance enterprise applications**.
 - Experience in **front-end & back-end web development**, crafting user-friendly and responsive websites.
-- Developing **efficient algorithms & system architectures** for optimized performance.
-
-### 🌍 **Freelance & Consulting**
-- Successfully completed multiple projects in **software development, cybersecurity, and cloud computing**.
-- Delivered **customized digital solutions** to clients worldwide, ensuring quality and innovation.
-
+- Developing **efficient algorithms & system a
 ### 🎓 **Academic Engagement**
 - **Supervisor | Teaching Assistant | Mentor**
-- Assisting students in understanding **advanced programming concepts and problem-solving techniques**.
-- Conducting **technical workshops** on software engineering, algorithms, and cloud computing.
-
----
 
 ## 📚 **Academic Background**
 - **FAST NUCES (Faisalabad) | BS Computer Science (2026)**
 - **Quaid-e-Azam University | Completed 2 Semesters of BS IT**
-
----
-
-## 🏆 **Leadership & Management Skills**
-- **Team Leadership:** Leading and mentoring teams to achieve **excellence in software development**.
-- **Strategic Planning:** Driving innovation, optimizing workflows, and ensuring project success.
-- **Problem-Solving:** Applying analytical skills to tackle complex challenges in software engineering.
-
----
-
-## 🎨 **Creative & Multimedia Skills**
-- **Photography & Videography:** Expert in visual storytelling, professional editing, and content creation.
-- **Graphic Design & Editing:** Proficient in designing UI/UX, branding, and multimedia production.
-
----
 
 ## 🌟 **Why Work With Me?**
 I am always eager to explore **new technologies, optimize systems, and build impactful software solutions**. Whether it's **developing high-performance applications, leading a tech team, or enhancing digital creativity**, I am committed to delivering excellence and innovation in every endeavor.
