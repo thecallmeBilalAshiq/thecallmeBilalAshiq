@@ -1,13 +1,12 @@
-<h1 align="center">🚀 Muhammad Bilal Ashiq🚀</h1>
-
-<p align="center">
+<div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=%23FF4B8B&size=30&center=true&vCenter=true&width=650&lines=Hello!+I'm+Muhammad+Bilal+Ashiq;🚀+Full-Stack+Developer+%7C+ML+Engineer;🎯+Tech+Enthusiast+%7C+Open-Source+Contributor;📚+Passionate+About+Teaching+%7C+Coding;💡+Always+Learning+New+Technologies" />
-</p>
-<p align="center">
+</div>
+<div align="center">
   <img src="https://github.com/thecallmebilalashiq/thecallmebilalashiq/blob/main/assets/header.gif" alt="Animated Header" />
-</p>
+</div>
 
----
+
+<hr>
 
 ![Fast NUCES CS'26](https://img.shields.io/badge/-Fast%20NUCES%20CS'26-002147?style=for-the-badge&logo=academia&logoColor=white)
 ![Database](https://img.shields.io/badge/-Database-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -31,24 +30,22 @@
 ![Microsoft Office](https://img.shields.io/badge/-Microsoft%20Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 
 
-## 📚 **Academic Background**
+## **Academic Background**
 - **FAST NUCES (Faisalabad) | BS Computer Science (2022- 2026)**
 - **Quaid-e-Azam University | BS Information Technology (2021-2022)**
 
-
 <p align="center">
   <a href="https://thecallmebilalashiq.github.io/portfolio/" target="_blank">
-    <span style="font-size: 18px; font-weight: bold; color: white; background: linear-gradient(90deg, #FF4B8B, #FF6F61); padding: 12px 24px; border-radius: 50px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); text-decoration: none; transition: all 0.3s ease;">
-      My Portfolio
-    </span>
+    <img src="https://img.shields.io/badge/My%20Portfolio-%23F44336?style=for-the-badge&logo=github&logoColor=white&color=gradient" alt="My Portfolio" />
   </a>
 </p>
 
+<div align="center">
+  <a href="https://github.com/thecallmeBilalAshiq">
+    <img height=180 align="center" src="https://github-readme-stats-six-ebon-56.vercel.app/api?username=thecallmeBilalAshiq&theme=radical&show_icons=true&bg_color=30,0e2a47,ffd700&title_color=fff&hide=stars&include_all_commits=false&border_radius=15" />
+  </a>
 
-<a href="https://github.com/thecallmeBilalAshiq">
-  <img height=180 align="center" src="https://github-readme-stats-six-ebon-56.vercel.app/api?username=thecallmeBilalAshiq&theme=radical&show_icons=true&bg_color=30,0e2a47,ffd700&title_color=fff&hide=stars&include_all_commits=false&border_radius=15" />
-</a>
-
-<a href="https://github.com/thecallmeBilalAshiq">
-  <img height=180 align="center" src="https://github-readme-stats-six-ebon-56.vercel.app/api/top-langs?username=thecallmeBilalAshiq&layout=compact&langs_count=8&card_width=320&theme=radical&show_icons=true&bg_color=30,0e2a47,ffd700&title_color=fff&border_radius=15" />
-</a>
+  <a href="https://github.com/thecallmeBilalAshiq">
+    <img height=180 align="center" src="https://github-readme-stats-six-ebon-56.vercel.app/api/top-langs?username=thecallmeBilalAshiq&layout=compact&langs_count=8&card_width=320&theme=radical&show_icons=true&bg_color=30,0e2a47,ffd700&title_color=fff&border_radius=15" />
+  </a>
+</div>
