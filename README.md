@@ -73,5 +73,3 @@
 <br>
 
 ![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=thecallmeBilalAshiq&bg_color=0d1117&color=00ff00&line=00ff00&point=ffffff&area=true&area_color=00ff00)
-
-
