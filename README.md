@@ -48,3 +48,30 @@
     <img height=180 align="center" src="https://github-readme-stats-six-ebon-56.vercel.app/api/top-langs?username=thecallmeBilalAshiq&layout=compact&langs_count=8&card_width=320&theme=radical&show_icons=true&bg_color=30,0e2a47,ffd700&title_color=fff&border_radius=15" />
   </a>
 </div>
+
+
+<br />
+<a href="https://www.linkedin.com/in/bilal-ashiq/">
+  <table align="left">
+      <tr>
+          <td>
+            😊&nbsp;&nbsp;Learn more about me!
+          </td>
+      </tr>
+  </table>
+</a>
+<a href="https://thecallmebilalashiq.github.io/Aasaan_Study_Roadmap/">
+  <table align="right">
+      <tr>
+          <td>
+            🌐 &nbsp;&nbsp;Aasaan Study Roadmap
+          </td>
+      </tr>
+  </table>
+</a>
+
+<br>
+
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=thecallmeBilalAshiq&bg_color=0d1117&color=00ff00&line=00ff00&point=ffffff&area=true&area_color=00ff00)
+
+
