@@ -57,6 +57,9 @@
 </div>
 
 
+
+
+
 <br />
 <a href="https://www.linkedin.com/in/bilal-ashiq/">
   <table align="left">
@@ -78,16 +81,21 @@
 </a>
 
 <br>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thecallmeBilalAshiq" 
-  alt="GitHub Streak" />
-</p>
-
 <br>
 
-<div align="center">
-  
-[![LeetCode Stats](https://leetcard.jacoblin.cool/Muhammad_Bilal_Ashiq?theme=unicorn&extension=activity)](https://leetcard.jacoblin.cool/Muhammad_Bilal_Ashiq?theme=unicorn&extension=activity)
 
-</div>
+
+
+
+<table style="border: none; width: 100%;">
+  <tr>
+    <td style="border: none;" align="left">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=thecallmeBilalAshiq" alt="GitHub Streak" />
+    </td>
+    <td style="border: none;" align="right">
+      <img src="https://leetcard.jacoblin.cool/Muhammad_Bilal_Ashiq?theme=unicorn" alt="LeetCode Stats" />
+    </td>
+  </tr>
+</table>
+
+
