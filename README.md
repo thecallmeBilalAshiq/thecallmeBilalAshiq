@@ -1,9 +1,12 @@
 <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="30%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="30%" style="display:inline;">
-<br>
+
+
 
 <p align="center">
     <h1 align="center">✩&emsp;Bilal Ashiq&emsp;✩</h1>
 </p>
+
+![](https://i.imgur.com/waxVImv.png)
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=%23FF4B8B&size=30&center=true&vCenter=true&width=650&lines=Hello!+I'm+Muhammad+Bilal+Ashiq;🚀+Full-Stack+Developer+%7C+ML+Engineer;🎯+Tech+Enthusiast+%7C+Open-Source+Contributor;📚+Passionate+About+Teaching+%7C+Coding;💡+Always+Learning+New+Technologies" />
@@ -39,6 +42,8 @@
 ## **Academic Background**
 - **FAST NUCES (Faisalabad) | BS Computer Science (2022- 2026)**
 - **Quaid-e-Azam University | BS Information Technology (2021-2022)**
+
+![](https://i.imgur.com/waxVImv.png)
 
 <p align="center">
   <a href="https://thecallmebilalashiq.github.io/portfolio/" target="_blank">
