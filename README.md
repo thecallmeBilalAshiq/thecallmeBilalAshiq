@@ -156,8 +156,7 @@
 <!--Contact Section--> 
 <h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
 <div align="center">
-  
-<a href="mailto:methebilalashiq@gmail.com">
+  <a href="mailto:methebilalashiq@gmail.com">
   <img src="./gmail.png" width="50" height="50" alt="Email" style="margin-bottom: 5px;" />
 </a>
 
@@ -176,7 +175,6 @@
 <a href="https://www.linkedin.com/in/bilal-ashiq" target="_blank" rel="noopener noreferrer">
   <img src="./linkedin.png" width="50" height="50" alt="LinkedIn" style="margin-bottom: 5px;" />
 </a>
-
 
 <br/>
 
