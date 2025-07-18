@@ -46,11 +46,39 @@
 
 ![](https://i.imgur.com/waxVImv.png)
 
-<p align="center">
-  <a href="https://thecallmebilalashiq.github.io/portfolio/" target="_blank">
-    <img src="https://img.shields.io/badge/My%20Portfolio-%23F44336?style=for-the-badge&logo=github&logoColor=white&color=gradient" alt="My Portfolio" />
-  </a>
-</p>
+
+
+<!--Languages and Tools Section-->       
+<h2 align="center">Tᴇᴄʜ sᴛᴀᴄᴋ & Lᴀᴛᴇsᴛ ʙʟᴏɢs</h2> 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
+  <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
+  <img align="left" alt="GIF description" src="./Skills_Animation_White.gif">
+</picture>
+<br />
+
+
+<h3 align="left">Current Learning</h3>
+<ul align="left">
+  <li>Expanding my expertise in Next.js for full-stack development.</li>
+  <li>Deepening my understanding of Python OOP concepts.</li>
+  <li>Enhancing my backend skills with Express and API development.</li>
+  <li>Exploring AWS services like EC2, S3, and Lambda for scalable deployment.</li>
+  <li>Learning about serverless functions and microservices architecture.</li>
+  <li>Working with SQL and NoSQL databases for efficient data handling.</li>
+  <li>Integrating OpenAI APIs with tools like Typebot for chatbot automation.</li>
+  <li>Understanding cloud deployment, domain management, and SSL setup.</li>
+</ul>
+  
+<br />
+
+
+
+![](https://i.imgur.com/waxVImv.png)
+
+
+<!-- GitHub Stats -->
+<!-- <h2 align="center">📊 GitHub Stats 📊</h2> -->
 
 <div align="center">
   <a href="https://github.com/thecallmeBilalAshiq">
@@ -63,6 +91,25 @@
 </div>
 
 
+  <!-- <tr>
+    <td align="center">
+      <h3><strong>Latest Project</strong></h3>
+      <a href="https://github.com/thecallmeBilalAshiq/To-Do_App_Python-Flask">
+        <img width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=thecallmebilalashiq&repo=multi-format-ai-agents&theme=nightowl&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Plura SaaS" />
+      </a>
+    </td>
+    <td align="center">
+      <h3><strong>Top Contributions</strong></h3>
+      <a href="https://github.com/thecallmebilalashiq">
+        <img src="https://github-contributor-stats.vercel.app/api?username=thecallmebilalashiq&limit=2&theme=nightowl&show_owner=true&combine_all_yearly_contributions=false&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Top Repo" />
+      </a>
+    </td>
+  </tr> -->
+
+
+
+
+![](https://i.imgur.com/waxVImv.png)
 
 
 
@@ -104,4 +151,38 @@
   </tr>
 </table>
 
+
+
+<!--Contact Section--> 
+<h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
+<div align="center">
+  
+<a href="mailto:methebilalashiq@gmail.com" target="_blank">
+<img src="./gmail.png" width=50 height=50 alt="methebilalashiq@gmail.com" style="margin-bottom: 5px;" />
+</a>
+<a href="https://x.com/methebilalashiq" target="_blank">
+<img src="./twitter.png" width=50 height=50 alt="Bilal" style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.instagram.com/methebilalashiq" target="_blank">
+<img src="./instagram.png" width=50 height=50 alt="Bilal_s_z" style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.githubcom/thecallmeBilalAshiq" target="_blank">
+<img src="./github.png" width=50 height=50 alt="Bilal3100" style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.linkedin.com/in/bilal-ashiq" target="_blank">
+<img src="./linkedin.png" width=50 height=50 alt="linkedin" style="margin-bottom: 5px;" />
+</a>
+</div>
+
+<br/>
+
+<br clear="both">
+
+
+<img src="https://raw.githubusercontent.com/thecallmebilalashiq/thecallmebilalashiq/output/snake.svg" alt="Snake animation" />
+
+<!--Footer--> 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
+</p>
 
