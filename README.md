@@ -181,7 +181,8 @@
 <br clear="both">
 
 
-<img src="https://raw.githubusercontent.com/thecallmeBilalAshiq/thecallmeBilalAshiq/output/snake.svg" alt="Snake animation" />
+![GitHub Snake Light](https://raw.githubusercontent.com/thecallmeBilalAshiq/thecallmeBilalAshiq/output/github-snake.svg#gh-light-mode-only)
+![GitHub Snake Dark](https://raw.githubusercontent.com/thecallmeBilalAshiq/thecallmeBilalAshiq/output/github-snake-dark.svg#gh-dark-mode-only)
 
 <!--Footer--> 
 <p align="center">
