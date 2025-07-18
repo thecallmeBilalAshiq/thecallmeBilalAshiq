@@ -60,14 +60,13 @@
 
 <h3 align="left">Current Learning</h3>
 <ul align="left">
-  <li>Expanding my expertise in Next.js for full-stack development.</li>
-  <li>Deepening my understanding of Python OOP concepts.</li>
-  <li>Enhancing my backend skills with Express and API development.</li>
-  <li>Exploring AWS services like EC2, S3, and Lambda for scalable deployment.</li>
-  <li>Learning about serverless functions and microservices architecture.</li>
+  <li>Expanding my expertise in React.js for full-stack development.</li>
+  <li>Deepening my understanding of Machine Learning concepts.</li>
+  <li>Enhancing my backend skills with Mpngo , Flask/FastAPI and API development.</li>
   <li>Working with SQL and NoSQL databases for efficient data handling.</li>
-  <li>Integrating OpenAI APIs with tools like Typebot for chatbot automation.</li>
-  <li>Understanding cloud deployment, domain management, and SSL setup.</li>
+  <li>Integrating OpenAI APIs with chatbot automation.</li>
+  <li>Understanding web/app deployment</li>
+  <li>Working at Figma and Canva for complete designs</li>
 </ul>
   
 <br />
