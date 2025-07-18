@@ -108,9 +108,18 @@
 
 
 
-![](https://i.imgur.com/waxVImv.png)
 
 
+<table style="border: none; width: 100%;">
+  <tr>
+    <td style="border: none;" align="left">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=thecallmeBilalAshiq" alt="GitHub Streak" />
+    </td>
+    <td style="border: none;" align="right">
+      <img src="https://leetcard.jacoblin.cool/Muhammad_Bilal_Ashiq?theme=unicorn" alt="LeetCode Stats" />
+    </td>
+  </tr>
+</table>
 
 <br />
 <a href="https://www.linkedin.com/in/bilal-ashiq/">
@@ -135,20 +144,9 @@
 <br>
 <br>
 
+![](https://i.imgur.com/waxVImv.png)
 
 
-
-
-<table style="border: none; width: 100%;">
-  <tr>
-    <td style="border: none;" align="left">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=thecallmeBilalAshiq" alt="GitHub Streak" />
-    </td>
-    <td style="border: none;" align="right">
-      <img src="https://leetcard.jacoblin.cool/Muhammad_Bilal_Ashiq?theme=unicorn" alt="LeetCode Stats" />
-    </td>
-  </tr>
-</table>
 
 
 
@@ -185,6 +183,6 @@
 
 <!--Footer--> 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=0&color=gradient&section=footer&textBg=false&fontAlign=50&reversal=true&desc=Recite%20Darood%20o%20Salam"/>
 </p>
 
