@@ -27,17 +27,37 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Oracle](https://img.shields.io/badge/-Oracle-F00000?style=for-the-badge&logo=oracle&logoColor=white)
 ![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Arch Linux](https://img.shields.io/badge/-Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
+![Fedora Linux](https://img.shields.io/badge/-Fedora%20Linux-294172?style=for-the-badge&logo=fedora&logoColor=white)
+![Mint Linux](https://img.shields.io/badge/-Mint%20Linux-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white)
 ![VMware](https://img.shields.io/badge/-VMware-607080?style=for-the-badge&logo=vmware&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Web Development](https://img.shields.io/badge/-Web%20Development-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white)
 ![Microsoft Office](https://img.shields.io/badge/-Microsoft%20Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Cursor AI](https://img.shields.io/badge/-Cursor%20AI-6B7280?style=for-the-badge&logo=cursor&logoColor=white)
+![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-F48024?style=for-the-badge&logo=stack-overflow&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-00B7EB?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Internee](https://img.shields.io/badge/-Internee-4A90E2?style=for-the-badge&logo=internet-explorer&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-4B8BBE?style=for-the-badge&logo=python&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+![Canva](https://img.shields.io/badge/-Canva-00C4B4?style=for-the-badge&logo=canva&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Assembly](https://img.shields.io/badge/-Assembly-6E4C13?style=for-the-badge&logo=code&logoColor=white)
 
 
 ## **Academic Background**
@@ -181,8 +201,16 @@
 ![GitHub Snake Light](https://raw.githubusercontent.com/thecallmeBilalAshiq/thecallmeBilalAshiq/output/github-snake.svg#gh-light-mode-only)
 ![GitHub Snake Dark](https://raw.githubusercontent.com/thecallmeBilalAshiq/thecallmeBilalAshiq/output/github-snake-dark.svg#gh-dark-mode-only)
 
+
+
+<img align="center" margin-top="20px" height="270px" alt="GIF" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" />
+
+
+
+
+
 <!--Footer--> 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=0&color=gradient&section=footer&textBg=false&fontAlign=50&reversal=true&desc=Recite%20Darood%20o%20Salam"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=80&color=gradient&section=footer&textBg=false&fontAlign=50&reversal=true&desc=Recite%20Darood%20o%20Salam"/>
 </p>
 
