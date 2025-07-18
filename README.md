@@ -157,22 +157,26 @@
 <h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
 <div align="center">
   
-<a href="mailto:methebilalashiq@gmail.com" target="_blank">
-<img src="./gmail.png" width=50 height=50 alt="methebilalashiq@gmail.com" style="margin-bottom: 5px;" />
+<a href="mailto:methebilalashiq@gmail.com">
+  <img src="./gmail.png" width="50" height="50" alt="Email" style="margin-bottom: 5px;" />
 </a>
-<a href="https://x.com/methebilalashiq" target="_blank">
-<img src="./twitter.png" width=50 height=50 alt="Bilal" style="margin-bottom: 5px;" />
+
+<a href="https://x.com/methebilalashiq" target="_blank" rel="noopener noreferrer">
+  <img src="./twitter.png" width="50" height="50" alt="Twitter" style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.instagram.com/methebilalashiq" target="_blank">
-<img src="./instagram.png" width=50 height=50 alt="Bilal_s_z" style="margin-bottom: 5px;" />
+
+<a href="https://www.instagram.com/methebilalashiq" target="_blank" rel="noopener noreferrer">
+  <img src="./instagram.png" width="50" height="50" alt="Instagram" style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.githubcom/thecallmeBilalAshiq" target="_blank">
-<img src="./github.png" width=50 height=50 alt="Bilal3100" style="margin-bottom: 5px;" />
+
+<a href="https://www.github.com/thecallmeBilalAshiq" target="_blank" rel="noopener noreferrer">
+  <img src="./github.png" width="50" height="50" alt="GitHub" style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.linkedin.com/in/bilal-ashiq" target="_blank">
-<img src="./linkedin.png" width=50 height=50 alt="linkedin" style="margin-bottom: 5px;" />
+
+<a href="https://www.linkedin.com/in/bilal-ashiq" target="_blank" rel="noopener noreferrer">
+  <img src="./linkedin.png" width="50" height="50" alt="LinkedIn" style="margin-bottom: 5px;" />
 </a>
-</div>
+
 
 <br/>
 
