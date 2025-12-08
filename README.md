@@ -207,8 +207,6 @@
 
 
 
-
-
 <!--Footer--> 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=80&color=gradient&section=footer&textBg=false&fontAlign=50&reversal=true&desc=Recite%20Darood%20o%20Salam"/>
