@@ -6,11 +6,10 @@
     <h1 align="center">✩&emsp;Bilal Ashiq&emsp;✩</h1>
 </p>
 
-![](https://i.imgur.com/waxVImv.png)
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%23FF4B8B&size=30&center=true&vCenter=true&width=650&lines=Hello!+I'm+Muhammad+Bilal+Ashiq;🚀+Full-Stack+Developer+%7C+ML+Engineer;🎯+Tech+Enthusiast+%7C+Open-Source+Contributor;📚+Passionate+About+Teaching+%7C+Coding;💡+Always+Learning+New+Technologies" />
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&duration=2500&pause=800&color=00F5FF&center=true&vCenter=true&width=900&lines=🚀+AI%2FML+Enthusiast+%26+Software+Developer;💻+Full-Stack+Web+Developer;🧠+Python+%7C+ML+%7C+Computer+Vision;🔥+Building+NeuroHire+%26+NeuroSecure;🌍+President+%40+Amnesty+International+FAST+Chapter" />
+</p>
 <div align="center">
   <img src="https://github.com/thecallmebilalashiq/thecallmebilalashiq/blob/main/assets/header.gif" alt="Animated Header" />
 </div   
@@ -152,11 +151,11 @@
       </tr>
   </table>
 </a>
-<a href="https://thecallmebilalashiq.github.io/Aasaan_Study_Roadmap/">
+<a href="https://incomparable-wisp-91385a.netlify.app/">
   <table align="right">
       <tr>
           <td>
-            🌐 &nbsp;&nbsp;Aasaan Study Roadmap
+            🌐 &nbsp;&nbsp;NeuroSecure
           </td>
       </tr>
   </table>
@@ -209,7 +208,13 @@
 
 
 <!--Footer--> 
+
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=80&color=gradient&section=footer&textBg=false&fontAlign=50&reversal=true&desc=Recite%20Darood%20o%20Salam"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=24&duration=3000&pause=900&color=FFD700&center=true&vCenter=true&width=850&lines=Code+Less.+Innovate+More.;Build+Systems+That+Solve+Real+Problems.;Learning+Today.+Leading+Tomorrow.;AI+is+not+the+future.+AI+is+the+present." />
 </p>
 
+<!-- <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=80&color=gradient&section=footer&textBg=false&fontAlign=50&reversal=true&desc=Recite%20Darood%20o%20Salam"/>
+</p>
+ -->
