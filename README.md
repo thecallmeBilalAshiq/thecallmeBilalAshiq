@@ -60,8 +60,7 @@
 
 
 ## **Academic Background**
-- **FAST NUCES (Faisalabad) | BS Computer Science (2022- 2026)**
-- **Quaid-e-Azam University | BS Information Technology (2021-2022)**
+- **FAST NUCES             | BS Computer Science (2022- 2026) - Graduated**
 
 ![](https://i.imgur.com/waxVImv.png)
 
