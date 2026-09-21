@@ -58,8 +58,13 @@
 ![Assembly](https://img.shields.io/badge/-Assembly-6E4C13?style=for-the-badge&logo=code&logoColor=white)
 
 
-## **Academic Background**
+## **Experience & Academic Background**
+- **Software Engineer      | Full Stack and Data Engineer**
+- **AI Intern              | COLABS & NIC**
+- **Advisor/President | AMNESTY International FAST**
 - **FAST NUCES             | BS Computer Science (2022- 2026) - Graduated**
+
+
 
 ![](https://i.imgur.com/waxVImv.png)
 
